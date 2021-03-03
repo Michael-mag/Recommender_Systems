@@ -3,7 +3,7 @@
 **1. Colleborative Filtering:**
 
     - Recommender systems built upon colleborative filtering uses the preferences and opinions of 
-         other users with similar preferences and opinions as the target user to recommend new things.
+        other users with similar preferences and opinions as the target user to recommend new things.
 
 **2. Content Based Filtering**
 
